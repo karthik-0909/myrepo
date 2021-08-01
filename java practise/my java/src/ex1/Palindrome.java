@@ -6,7 +6,7 @@ public class Palindrome
 
 	public static void main(String[] args) 
 	{
-		String s="hi this is karthik DaD";
+		String s="hi this is karthik 090";
 		System.out.println(lastCharUppercase(s));
 		System.out.println(MiddleorLastlettertoUppercase(s));
 		System.out.println(PrintingNonPalindrome(s));
