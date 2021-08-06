@@ -43,6 +43,10 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\RevatureRepository\Week2\Day4"/>
+			<item value="C:\Users\gandu\Desktop\repo notes\revature_India_26th_July_13Week\Week2(Java_Advanced)\java_examples\maps_demo"/>
+			<item value="C:\Users\gandu\Desktop\repo notes\revature_India_26th_July_13Week\Week2(Java_Advanced)\java_examples\list_demo"/>
+			<item value="C:\Users\gandu\Desktop\repo\java practise\my java\src\eg2"/>
 			<item value="C:\Users\gandu\Desktop\repo notes\revature_India_26th_July_13Week\Week1(Git,Java)\java_demos\arrays_demo"/>
 		</list>
 	</section>
