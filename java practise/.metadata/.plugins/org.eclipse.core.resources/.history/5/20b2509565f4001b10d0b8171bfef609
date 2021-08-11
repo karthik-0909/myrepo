@@ -1,9 +1,0 @@
- package week2;
-
-public class PlayerMain {
-	public static void main(String args[]) {
-		Player p1=new Player(100,"sachin");
-		System.out.println(p1);
-	
-}
-}
